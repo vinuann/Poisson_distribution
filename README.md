@@ -16,7 +16,7 @@ The Poisson distribution is the discrete probability distribution of the number 
  Conditions for Poisson Distribution:
 
 1. An event can occur any number of times during a time period.
-2. Events occur independently. I
+2. Events occur independently. 
 3. The rate of occurrence is constant.
 4. The probability of an event occurring is proportional to the length of the time period. 
  
